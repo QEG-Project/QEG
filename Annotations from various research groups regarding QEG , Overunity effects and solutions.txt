@@ -1,0 +1,11 @@
+Notations:
+
+From QEG UK Engineers:
+
+"One of the most time consuming aspects of tuning the QEG is playing with the capacitors to get the right value for the tuning process. It would be very neat if somebody could design a capacitor bank, maybe with switches, that will allow a range of high voltage (at least 2000Vdc individually, and 16kVdc collectively) caps to be varied between 30nF and 800nF with a very fine degree of tuning (0.5nF or less), possibly using a variable capacitor. If anyone fancies designing one, it would be much appreciated."
+
+
+Converting VAR to real power is the million dollar question! We are exploring two scenarios: (1) use of a transverter circuit, and (2) use of a Markov coil which is wrapped all the way around the core in order to pull off power from the A-field that is produced by connecting the two coils producing the VAR power in "bucking" mode - meaning they are are connected clockwise then anti-clockwise in series. This should cancel the magnetic fields (which we do not want) and created the A-field. The idea is to use the markov coil (as I say, very simply a long piece of wire wrapped around the entire QEG and connected to a load) as a pick-up coil, hopefully turning the VAR into real power. Not sure if this works for sure - we have just started experimenting in the past couple of days. However, all these details will be included when I issue the QEK UK Test and Measurement Report, which will probably take a couple of weeks to get out.
+
+
+
