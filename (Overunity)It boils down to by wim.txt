@@ -1,0 +1,25 @@
+It boils down to...where does the overunity come from.
+I think it come from a high state, more slowly build...followed by a very steep downgoing in energy. It is this sudden lack of energy that can bring the overunity
+
+In the QEG are bucking coils, they store a lot of magnetic energy in the middle. Then when the field strenght is larger then the core can hold, it comes out, the flield grows bigger than the coil of the QEG or transformer. When the field reconnects and breaks down, get the timing right, the extra enegy comes in.
+
+You also need a small relaxation period, so use less then 50% duty cycle.
+
+The higher the frequency the more events that can bring energy in per second.
+About flux,,, the higher you can go, the more energy is invoved per event.
+
+No paradox, you have to find the optimum for the stuff you have. Like metaglass or hollow ferrite.
+If you do not care about the size just use aircoils.
+
+If you use a ferrite toroidal core, use two thinner ones just above each other and 0,5 to 1 thickness of them as a spacing between them. This should make them faster reacting.
+
+Somehow i woul'd like to see an "imploding" field rather than expanding. The field has to grow, not explode . The implosion phase is what draws the extra energy in.
+
+A sawtooth should work fine.
+
+It has to have sudden break down, a spark gap would work.
+It has to be fast, either by forced air or a focussed magnetic field over the spark gap, like Tesla used.
+
+I would go for push...not pull....push...not pull
+
+Nature will do the pulling, however you can help with a small permant magnet, close to the core or inside the core.
